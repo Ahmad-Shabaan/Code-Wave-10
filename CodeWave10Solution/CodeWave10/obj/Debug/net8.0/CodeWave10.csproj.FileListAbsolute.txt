@@ -1,0 +1,14 @@
+C:\Users\Ahmed\Desktop\Code_Wave\CodeWave10\CodeWave10Solution\CodeWave10\bin\Debug\net8.0\CodeWave10.exe
+C:\Users\Ahmed\Desktop\Code_Wave\CodeWave10\CodeWave10Solution\CodeWave10\bin\Debug\net8.0\CodeWave10.deps.json
+C:\Users\Ahmed\Desktop\Code_Wave\CodeWave10\CodeWave10Solution\CodeWave10\bin\Debug\net8.0\CodeWave10.runtimeconfig.json
+C:\Users\Ahmed\Desktop\Code_Wave\CodeWave10\CodeWave10Solution\CodeWave10\bin\Debug\net8.0\CodeWave10.dll
+C:\Users\Ahmed\Desktop\Code_Wave\CodeWave10\CodeWave10Solution\CodeWave10\bin\Debug\net8.0\CodeWave10.pdb
+C:\Users\Ahmed\Desktop\Code_Wave\CodeWave10\CodeWave10Solution\CodeWave10\obj\Debug\net8.0\CodeWave10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ahmed\Desktop\Code_Wave\CodeWave10\CodeWave10Solution\CodeWave10\obj\Debug\net8.0\CodeWave10.AssemblyInfoInputs.cache
+C:\Users\Ahmed\Desktop\Code_Wave\CodeWave10\CodeWave10Solution\CodeWave10\obj\Debug\net8.0\CodeWave10.AssemblyInfo.cs
+C:\Users\Ahmed\Desktop\Code_Wave\CodeWave10\CodeWave10Solution\CodeWave10\obj\Debug\net8.0\CodeWave10.csproj.CoreCompileInputs.cache
+C:\Users\Ahmed\Desktop\Code_Wave\CodeWave10\CodeWave10Solution\CodeWave10\obj\Debug\net8.0\CodeWave10.dll
+C:\Users\Ahmed\Desktop\Code_Wave\CodeWave10\CodeWave10Solution\CodeWave10\obj\Debug\net8.0\refint\CodeWave10.dll
+C:\Users\Ahmed\Desktop\Code_Wave\CodeWave10\CodeWave10Solution\CodeWave10\obj\Debug\net8.0\CodeWave10.pdb
+C:\Users\Ahmed\Desktop\Code_Wave\CodeWave10\CodeWave10Solution\CodeWave10\obj\Debug\net8.0\CodeWave10.genruntimeconfig.cache
+C:\Users\Ahmed\Desktop\Code_Wave\CodeWave10\CodeWave10Solution\CodeWave10\obj\Debug\net8.0\ref\CodeWave10.dll
